@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": false,
+  "rubyLsp.rubyVersionManager": "asdf",
+  "rubyLsp.formatter": "rubocop",
+  "[ruby]": {
+    "editor.formatOnSave": true
+  },
+  "tailwindCSS.experimental.classRegex": [
+    "\\bclass:\\s*'([^']*)'",
+    "\\bclass:\\s*\"([^\"]*)\"",
+  ],
+}
